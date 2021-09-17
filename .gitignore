@@ -132,3 +132,4 @@ dmypy.json
 Data
 dataset.mat
 *.xlsx
+/required data/
