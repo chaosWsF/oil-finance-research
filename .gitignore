@@ -130,6 +130,16 @@ dmypy.json
 
 # large datasets
 Data
-dataset.mat
-*.xlsx
+*.mat
 /required data/
+data
+
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.pdf
+*.eps
+Reference
+reference
+*Writing
